@@ -14,5 +14,3 @@
   - [Refereeing](refereeing)
 
 - [Planned features](planned-features)
-
-- [Development](development)

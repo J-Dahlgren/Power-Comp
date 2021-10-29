@@ -23,8 +23,6 @@
 
 ## Maybe some day
 
-- **Package as electron application:** Packaging Power Comp as an Electron application would make it available on many more operating systems.
-
 - **Theme selector:** Toggle dark or light mode.
 
 - **Configurable display:** Manually place displays and resize

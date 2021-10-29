@@ -23,10 +23,6 @@ More about this [here](access).
 
 Currently executeables are only built for Windows but you can run the application via [docker](https://docs.docker.com/get-docker/), see [docker hub](https://hub.docker.com/repository/docker/jesperdahlgren/power-comp) for more info on the image. It is also possible to download the source and compile it for Linux and MacOS. The server can however always be accessed via any modern browser on devices that are on the same network.
 
-**Is it open source?**
-
-Yes! It can be found at [https://github.com/J-Dahlgren/Power-Comp](https://github.com/J-Dahlgren/Power-Comp) and is MIT licensed
-
 **Which federations does it support?**
 
 Only IPF.

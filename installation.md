@@ -7,13 +7,10 @@
 
 ### Steps
 
-- **Windows installer:** Get the latest installation file called `powercomp-setup.exe` at https://github.com/J-Dahlgren/Power-Comp/releases/latest in the assets section.
+- **Windows installer:** Download url coming soon.
 
-  - The browser may warn against downloading the file, download/keep anyway.
 
 - Run the installer by double-clicking it.
-
-  - You may get a warning about the software because it isn't signed with a certificate, run anyway.
 
 - The installer will prompt you for an install location. The default is usually correct.
 
@@ -33,7 +30,7 @@ Which port the server is accessible on.
 
 All clients need to "refresh" with the new port number if changed
 
-Default is `80`
+Default is `8080`
 
 ### `STORAGE_PATH`
 
