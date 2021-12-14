@@ -2,7 +2,7 @@
 
 ### Prerequisites
 
-- A PC with Windows 7 or newer version.
+- A PC with Windows 10.
 - Full administrator rights.
 
 ### Steps
