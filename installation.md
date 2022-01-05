@@ -50,9 +50,9 @@ Default is `db/power-comp.sqlite` i.e. `<STORAGE_PATH>/db/power-comp.sqlite`
 
 ### `LOG_LEVEL`
 
-Choose between `"ERROR"`, `"WARN"`,`"INFO"`,`"DEBUG"`,`"TRACE"`.
+Choose between `"error"`, `"warn"`,`"info"`,`"debug"`,`"trace"`.
 
-Default is `"INFO"`
+Default is `"info"`
 
 ### `PASSWORD`
 
